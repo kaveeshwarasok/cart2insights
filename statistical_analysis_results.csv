@@ -1,0 +1,4 @@
+Test,Question,Statistic,P_Value,Alpha,Decision
+Independent Two-Sample T-Test,Delivery status vs review score,-85.00038838518927,0.0,0.05,Reject H0
+One-Way ANOVA,Product category vs order value,167.96621758850964,0.0,0.05,Reject H0
+Chi-Square Test,Payment method vs order status,677.9686600845556,7.86974934912044e-125,0.05,Reject H0
