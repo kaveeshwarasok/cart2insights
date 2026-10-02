@@ -568,11 +568,11 @@ venv/
 
 ## 👤 Author
 
-**Your Name**
-📧 your.email@example.com
-🔗 [GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+**kaveeshwar A**
+📧 kaveeswarasok@gmail.com
+🔗 [GitHub](https://github.com/kaveeshwarasok) · [LinkedIn](https://linkedin.com/in/a_kaveeshwar)
 
-*Project built as part of the GUVI × HCL data analytics program.*
+
 
 ---
 
