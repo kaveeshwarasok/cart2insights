@@ -568,9 +568,9 @@ venv/
 
 ## 👤 Author
 
-**Kaveeshwar A**
-📧 kaveeshwarasok@gmail.com
-🔗 [GitHub](https://github.com/kaveeshwarasok) · [LinkedIn](https://linkedin.com/in/a_kaveeshwar)
+**Your Name**
+📧 your.email@example.com
+🔗 [GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
 
 *Project built as part of the GUVI × HCL data analytics program.*
 
