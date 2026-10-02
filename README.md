@@ -570,7 +570,7 @@ venv/
 
 **kaveeshwar A**
 📧 kaveeswarasok@gmail.com
-🔗 [GitHub](https://github.com/kaveeshwarasok) · [LinkedIn](https://linkedin.com/in/a_kaveeshwar)
+🔗 [GitHub](https://github.com/kaveeshwarasok) · [LinkedIn](https://linkedin.com/in/a-kaveeshwar)
 
 
 
