@@ -542,18 +542,7 @@ venv/
 - Some rows are dropped during SQL loading to satisfy foreign-key constraints (e.g. records without a matching ZIP prefix), which can cause small differences versus raw-file counts.
 - "Revenue" figures are based on payment/order values in R$ and are not adjusted for inflation or returns.
 
----
 
-## 📋 Deliverables Checklist
-
-- [x] **Source code:** notebooks for cleaning, feature engineering, EDA and statistics
-- [x] **SQL integration:** Python–MySQL connection and SQL analysis queries
-- [x] **Streamlit application:** interactive, multi-section dashboard
-- [x] **Project documentation:** this README
-- [x] **Business insights & recommendations:** notebook 08 and the sections above
-- [ ] **Final presentation:** demo of the project and dashboard
-
----
 
 ## 🚀 Future Enhancements
 
